@@ -78,11 +78,6 @@ This is consistent with established malware delivery patterns (ISO smuggling, HT
 - CVE-2004-0935: ESET Anti-Virus bypass via malformed ZIP headers
 - This technique demonstrates a new primitive (method field desynchronization) within the same vulnerability class
 
-## Disclosure
-
-- CERT/CC: VU#976247
-- Technical writeup: https://bombadil.systems/blog/zombie-zip-av-evasion.html
-
 ## Author
 
 Chris Aziz - [Bombadil Systems](https://bombadil.systems)
